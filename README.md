@@ -13,7 +13,7 @@ J'ai agrémenté celui-ci d'une IHM en java-FX pour rendre l'application plus ag
 ## Réalisation :
 
 Dans ce repository vous retrouverez le code de l'application.<br />
-Pour l'utiliser, il suffit de fournir la matrice d'adjacence de votre graphe et sa taille, et le parcours sera effectué. (java 1.8)
+Pour l'utiliser, il suffit de fournir la matrice d'adjacence de votre graphe et sa taille, et le parcours sera effectué. (java 8)
 <p align="center"><img src="media/app.png" alt="drawing" width="50%"/></p>
 
 
