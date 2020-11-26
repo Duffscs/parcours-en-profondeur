@@ -70,13 +70,13 @@ public class ParcoursEnProfondeur {
         vertical = trouverUnePositionLibre(vertical,pos);
         arbre.ajouterNoeud(sommet,pos);
         if(vertical> verticalMax)
-            verticalMax =vertical;
+            verticalMax = vertical;
         return vertical;
     }
 
     private int trouverUnePositionLibre(int vertical,Position pos){
         while(posUtilise.contains(pos)){
-            pos.setXY(50*niveauActuel,50*(vertical));
+            pos.setXY(50*niveauActuel-25,50*(vertical)-25);
             vertical++;
         }
         posUtilise.add(pos);
