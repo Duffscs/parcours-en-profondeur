@@ -8,7 +8,7 @@ Il s'agit d'une petite application en JAVA-FX permettant de réaliser un parcour
 La théorie des graphes est étudiée durant le second semestre de DUT Informatique, la consigne était de réaliser un algorithme de parcours en profondeur.
 
 J'ai donc réalisé un algorithme récursif permettant d'effectuer un parcours.<br />
-J'ai agrémenté celui-ci d'une IHM en java-FX pour rendre l'application plus agréable a utiliser.
+J'ai agrémenté celui-ci d'une IHM en java-FX pour rendre l'application plus agréable à utiliser.
 
 ## Réalisation :
 
